@@ -1,0 +1,57 @@
+body {
+        
+        font-family: 'Roboto Mono', monospace;
+        background-image: url(giphy.gif);
+        
+}
+
+    .box {width: 700px;
+        height: 550px;
+        padding: 20px;
+        margin: 100px auto;
+        box-shadow: 0px 0px 10px 2px grey;
+        border: 10px solid;
+ 
+        background-image: url(baby2.jpg);
+        background-size: cover;
+        border-radius: 30%;
+        text-align: center;
+        font-family: 'Lobster Two', cursive;
+        color:#000000;
+  
+     }
+     .stp{
+         background-color: transparent;
+         text-align: center;
+         font-size: 20px;
+         color: black;
+     }
+     .emoji{
+         width: 100%;
+     }
+     .image{
+         border-radius: 30%;
+         width: 500px;
+         
+     }
+
+h1 {
+    color:#0779e4;
+}
+h3 {
+    font-weight: 700;
+    
+}
+ #Firstpage{
+    background-image: url(giphy.gif);
+ }
+#TESTIMONIALS {
+    background-color: white;
+    text-align: center;
+    background-image: url(mee.jpg);
+    background-color: transparent;
+    font-family: 'Lobster Two', cursive;
+    color:RED;
+    font-weight: 400;
+    font-size: 30px;
+}
